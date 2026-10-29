@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Artur 👋
 
-<!--
-**airo33/airo33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year **Computer Science** student at **Alfred University**, building mobile apps and web products with AI. Member of **ColorStack** and the varsity tennis team.
 
-Here are some ideas to get you started:
+## What I build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Stack |
+|---|---|---|
+| [**Bloom AI**](https://github.com/airo33/bloom-ai) | Recovery app that builds a personalized AI rehab plan, with a physio chat that accepts injury photos | React Native, Expo, Supabase, Groq |
+| [**Quillo**](https://quillo.onrender.com) | Study platform that turns course files into notes, practice exams, and flashcards | Python, Flask, Claude API, Stripe |
+| [**Eyerly**](https://github.com/airo33/eyerly) | Eye-strain app with break reminders and guided eye exercises | React Native, Expo, TypeScript |
+| [**Brushy**](https://github.com/airo33/brushy) | Brushing alarm with a hands-free timer, streaks, and a friends leaderboard | React Native, Expo, Supabase |
+
+## Tech
+
+`Python` `TypeScript` `JavaScript` `C#` `C++` `React Native` `Expo` `Flask` `Supabase` `PostgreSQL` `Git`
+
+## Currently
+
+- 🎓 Studying Computer Science, Data Science, and AI foundations
+- 🔍 Looking for software engineering internships
+
+## Reach me
+
+- 📫 [i.arturcompany@gmail.com](mailto:i.arturcompany@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/artur-idrisov)
