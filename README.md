@@ -1,6 +1,6 @@
 # Hi, I'm Artur 👋
 
-First-year **Computer Science** student at **Alfred University**, building mobile apps and web products with AI. Member of **ColorStack** and the varsity tennis team.
+First-year **Computer Science** student at **Alfred University**, building mobile apps and web products with AI. Member of **ColorStack**.
 
 ## What I build
 
